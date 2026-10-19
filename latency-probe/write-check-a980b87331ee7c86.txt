@@ -1,0 +1,1 @@
+CloudLeak write permission check. No credentials.
